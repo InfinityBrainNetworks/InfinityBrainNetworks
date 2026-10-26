@@ -4,19 +4,6 @@
 
 > At **Techno 2026** (BMICH), my VR and MR builds **ArcPilot** and **Codexis MR Labs** drew **300+ players in three days**, more than 110 a day.
 
-## From my games
-
-<table>
-  <tr>
-    <td width="50%"><img src="images/arcpilot.jpg" alt="ArcPilot: flying through a mountain valley"><br><b>ArcPilot / Travel with Ravana VR</b>: Quest 3 flight steered with a real wooden wheel. Unity 6. <sub>(Still enhanced from a Unity screenshot.)</sub></td>
-    <td width="50%"><img src="images/av-1.jpg" alt="Avatar: ice crystals erupting among knights"><br><b>Avatar: Master of the Elements</b>: hand-tracking magic battle, with spells cast by gesture. Unity 6, prototype.</td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="images/la-1.jpg" alt="VR Lantern Arch: road through a tunnel of lanterns"><br><b>VR Lantern Arch</b>: a Vesak night with a lantern tunnel and a pandal, made for the SLIIT Vesak VR Zone. Unity 6.</td>
-    <td width="50%"><img src="images/mi-1.jpg" alt="Mihintale VR: the rock and the forest"><br><b>Mihintale VR</b>: the Mihintale legend in VR, made for the SLIIT Vesak VR Zone. Unity 6.</td>
-  </tr>
-</table>
-
 ## Featured work
 
 | Project | What it is | Built with |
